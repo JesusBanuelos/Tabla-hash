@@ -13,7 +13,7 @@ public class Main {
             System.out.println("4. Eliminar usuario");
             System.out.println("5. Modificar usuario");
             System.out.println("6. Ordenar lista de usuarios");
-            System.out.println("7. Salir");
+            System.out.println("7. Salir.");
             System.out.print("Ingrese la opcion deseada: ");
             opc=scan.nextInt();
             scan.nextLine();
